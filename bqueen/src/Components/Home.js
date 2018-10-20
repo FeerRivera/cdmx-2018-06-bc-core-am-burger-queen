@@ -14,7 +14,7 @@ class Home extends Component {
         render() {
             return (
                 < div >
-                    <h1> Bienvenido a Burger Queen
+                    <h1> Bienvenido a Burger Queen👑🍔 
                     </h1>
                     <button onClick={ this.logout } > Cerrar Sesión 
                     </button>
